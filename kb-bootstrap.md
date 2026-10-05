@@ -377,8 +377,10 @@ Record significant tradeoffs, including the roads *not* taken. Each entry is sho
 ```markdown
 ## <Decision title> - <date>
 **Decision:** what was chosen.
+**Context:** the requirements and constraints, and what was known at the time.
 **Considered:** the alternatives.
-**Why:** the reasoning, in a few lines.
+**Why:** the reasoning in a few lines, including the evidence relied on and what is given up.
+**Unknowns:** what is still not known.
 **Revisit if:** the evidence that would change this.
 ```
 
